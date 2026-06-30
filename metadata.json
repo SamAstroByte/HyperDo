@@ -1,0 +1,6 @@
+{
+  "name": "HyperDo",
+  "description": "Traditional apps just remind you; HyperDo actually executes for you. An AI-powered action-driven productivity companion that automates your tasks, schedules, and drafts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
